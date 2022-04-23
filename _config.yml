@@ -1269,3 +1269,5 @@ Titlebar top buttons colors. Close, rezise and hide*/
 .top-K_jibn .selected-g-kMVV.themed-2-lozF.item-3XjbnG, .top-K_jibn .themed-2-lozF.item-3XjbnG {
   border-bottom: none;
 }
+
+theme: jekyll-theme-slate
