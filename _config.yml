@@ -71,7 +71,7 @@ $$  /   \$$ |\$$$$$$$ |  \$$$$  |\$$$$$$$\ $$ |      $$ | $$ | $$ |\$$$$$$$ |$$ 
 div[class*="typeWindows-"]::after {
   content: 'C.T.R.X STUDIO';
   font-weight: bold;
-  line-height: 31px;
+  line-height: 30px;
   color: var(--Main-Color);
   font-size: 13.5px;
   position: absolute;
